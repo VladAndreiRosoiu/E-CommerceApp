@@ -106,7 +106,7 @@ a,a:hover{
 
 .page-wrapper{
     overflow:hidden;
-    background:#bebfc2;
+    background:#e5e5e5;
     padding-bottom:8vh
 }
 
@@ -719,9 +719,15 @@ table.table.table-bordered th{
     font-weight:800;
     color:#0da8e4
 }
+
 .detail-section{
     margin-top:60px
 }
+
+.detail-img{
+    width: 30%;
+}
+
 /**/
 
 /* 
