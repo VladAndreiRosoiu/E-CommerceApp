@@ -9,5 +9,4 @@ export class Product {
     unitsInStock: number | undefined;
     dateCrated: Date | undefined;
     lastUpdated: Date | undefined;
-
 }
